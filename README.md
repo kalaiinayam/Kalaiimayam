@@ -26,8 +26,7 @@
           <li>Programming (Python, JavaScript)</li>
           <li>Web Development</li>
           <li>Problem Solving</li><li>Marketing Analytics</li> <li>SoftSkill </li>
-
-          <li>Communication</li><li> Cloud computing</li>
+          <li>Communication</li>
         </ul>
       </td>
     </tr>
